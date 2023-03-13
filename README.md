@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-family: Verdana, sans-serif;"><code>Meta Coding Puzzles</code></h1>
+  <p style="font-family: Verdana, sans-serif;"><code>Meta Coding Puzzles</code></p>
 </div>
   </br>
 
