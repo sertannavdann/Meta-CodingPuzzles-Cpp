@@ -1,7 +1,5 @@
 <div align="center">
   <h1 style="font-family: Verdana, sans-serif;"><code>Meta Coding Puzzles</code></h1>
-
-  <p>🧩 A collection of coding puzzles to challenge your skills 🤓</p>
 </div>
   </br>
 
@@ -27,7 +25,14 @@ In this puzzle, you need to implement a system for managing orders at a sushi re
 
 ### 🚇 Tunnel Time - (++++0)
 
-This is the most challenging puzzle in the set, involving finding the shortest path through a network of tunnels with different travel times.
+
+The "Tunnel Time" puzzle is the most challenging puzzle in this set. The puzzle involves finding the shortest path through a network of tunnels, each with a different travel time. 
+
+The train track is circular, with positions numbered from 0 to C-1 (where C is the circumference of the track). The train travels clockwise at a speed of 1 meter per second and starts at position 0. The goal is to determine the total number of seconds before the train's tunnel time becomes X.
+
+There are N tunnels covering sections of the track, with no tunnel touching position 0 or intersecting with any other tunnels. The tunnels are specified by their starting and ending positions along the track, and their lengths range from 1 to C-1 meters.
+
+To solve this puzzle, you will need to implement an algorithm that finds the shortest path through the tunnels and calculates the total time the train spends in the tunnels. The puzzle is rated as (++++0), indicating its high level of difficulty.
 
 ---
 
