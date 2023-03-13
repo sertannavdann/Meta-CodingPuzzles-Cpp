@@ -1,9 +1,9 @@
 <div align="center">
-  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><code>Meta Coding Puzzles</code></h1>
-  </br>
+  <h1 style="font-family: Verdana, sans-serif;"><code>Meta Coding Puzzles</code></h1>
+
   <p>🧩 A collection of coding puzzles to challenge your skills 🤓</p>
 </div>
-
+  </br>
 
 <p align="center">💻 Solve the puzzles in your favorite programming language and improve your coding skills 🚀</p>
 
