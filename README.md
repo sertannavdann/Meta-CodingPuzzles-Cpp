@@ -7,8 +7,8 @@
 </div>
 
 <div style = "Center">
-__ Pseudocodes are inside each
-_
+Pseudocodes are inside each
+__
     ### Cafeteria - (++000)
     A simple puzzle to get you started, involving calculating the total available seating at a cafeteria.
 
