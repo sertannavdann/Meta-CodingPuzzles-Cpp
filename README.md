@@ -27,9 +27,10 @@ __
     <h3> Tunnel Time - (++++0) </h3>
     <p>This is the most challenging puzzle in the set, involving finding the shortest path through a network of tunnels with different 
     travel times.</p> 
- <br>
+
 
 </div>
-    ### Usage
+ <br>
+     <h2> Usage </h2>
     To use these puzzles, simply clone the repository and start working on the puzzles in your preferred programming language. Each
     puzzle has its own directory with a README file containing the problem description and input/output examples.
