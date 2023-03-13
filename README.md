@@ -1,11 +1,14 @@
+ 
+ <div>
     ## Meta Coding Puzzles
     This repository contains a set of coding puzzles of varying difficulty levels to challenge your coding skills. 
     Each puzzle has a hardness level, denoted by a string of plus signs followed by zeros, such as "(++000)" or "(++++0)". 
     The more plus signs, the harder the puzzle.
-    
+</div>
+
 <div style = "Center">
 
-______
+_
     ### Cafeteria - (++000)
     A simple puzzle to get you started, involving calculating the total available seating at a cafeteria.
 
