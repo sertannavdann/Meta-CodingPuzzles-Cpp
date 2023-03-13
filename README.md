@@ -8,25 +8,26 @@
 Pseudocodes are inside each file
 __
 <div style = "Center">
+ <br> <br> <br>
 
+    <h3>  Cafeteria - (++000) </h3> 
+    <p>A simple puzzle to get you started, involving calculating the total available seating at a cafeteria.</p>
 
-    ### Cafeteria - (++000)
-    A simple puzzle to get you started, involving calculating the total available seating at a cafeteria.
+    <h3>  Director of Photography - (++000) </h3> 
+    <p>This puzzle involves calculating the conditional array sequencing, based on several input parameters.</p>
 
-    ### Director of Photography - (++000) 
-    This puzzle involves calculating the conditional array sequencing, based on several input parameters.
+    <h3> Kaitenzushi - (+++00)  </h3> 
+    <p>In this puzzle, you need to implement a system for managing orders at a sushi restaurant with a rotating conveyor belt.</p>
 
-    ### Kaitenzushi - (+++00) 
-    In this puzzle, you need to implement a system for managing orders at a sushi restaurant with a rotating conveyor belt.
-
-    Plates serving the sushi are placed on a rotating conveyor belt that winds through the restaurant and moves past every table,
+    <p>Plates serving the sushi are placed on a rotating conveyor belt that winds through the restaurant and moves past every table,
     counter and seat. The final bill is based on the number and type of plates of the consumed sushi. Some restaurants use a variation
     of the concept, such as miniature wooden "sushi boats" that travel through small canals, or miniature locomotive cars that travel
-    on a track.
+    on a track.</p>
 
-    ### Tunnel Time - (++++0) 
-    This is the most challenging puzzle in the set, involving finding the shortest path through a network of tunnels with different 
-    travel times.
+    <h3> Tunnel Time - (++++0) </h3>
+    <p>This is the most challenging puzzle in the set, involving finding the shortest path through a network of tunnels with different 
+    travel times.</p> 
+ <br>
 
 </div>
     ### Usage
