@@ -1,9 +1,8 @@
 <div align="center">
-  <h1><code>Meta Coding Puzzles</code></h1>
+  <code>Meta Coding Puzzles</code>
   <p>🧩 A collection of coding puzzles to challenge your skills 🤓</p>
 </div>
 
----
 
 <p align="center">💻 Solve the puzzles in your favorite programming language and improve your coding skills 🚀</p>
 
