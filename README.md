@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><code>Meta Coding Puzzles</code></h2>
+  <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;"><code>Meta Coding Puzzles</code></h1>
   </br>
   <p>🧩 A collection of coding puzzles to challenge your skills 🤓</p>
 </div>
