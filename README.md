@@ -5,10 +5,10 @@
     Each puzzle has a hardness level, denoted by a string of plus signs followed by zeros, such as "(++000)" or "(++++0)". 
      The more plus signs, the harder the puzzle.</p>
 </div>
-
+__
 <div style = "Center">
 Pseudocodes are inside each
-__
+
     ### Cafeteria - (++000)
     A simple puzzle to get you started, involving calculating the total available seating at a cafeteria.
 
