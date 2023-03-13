@@ -6,7 +6,7 @@
      The more plus signs, the harder the puzzle.</p>
 </div>
 Pseudocodes are inside each file
-__
+
 <div style = "Center">
  <br> <br> <br>
 
