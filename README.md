@@ -5,7 +5,7 @@
     Each puzzle has a hardness level, denoted by a string of plus signs followed by zeros, such as "(++000)" or "(++++0)". 
      The more plus signs, the harder the puzzle.</p>
 </div>
-Pseudocodes are inside each
+Pseudocodes are inside each file
 __
 <div style = "Center">
 
