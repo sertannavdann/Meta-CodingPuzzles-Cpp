@@ -7,7 +7,7 @@
 </div>
 Pseudocodes are inside each file
 
-<div style = "Center">
+<div style = center>
  <br> <br> <br>
 
     <h3>  Cafeteria - (++000) </h3> 
