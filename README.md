@@ -1,5 +1,6 @@
 <div align="center">
-  <code>Meta Coding Puzzles</code>
+  <h2><code>Meta Coding Puzzles</code></h2>
+  </br>
   <p>🧩 A collection of coding puzzles to challenge your skills 🤓</p>
 </div>
 
