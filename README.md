@@ -14,15 +14,21 @@
 ### 🍴 Cafeteria - (++000)
 
 A simple puzzle to get you started, involving calculating the total available seating at a cafeteria.
+
 -
+
 ### 📸 Director of Photography - (++000)
 
 This puzzle involves calculating the conditional array sequencing, based on several input parameters.
+
 -
+
 ### 🍣 Kaitenzushi - (+++00)
 
 In this puzzle, you need to implement a system for managing orders at a sushi restaurant with a rotating conveyor belt. Plates serving the sushi are placed on a rotating conveyor belt that winds through the restaurant and moves past every table, counter, and seat. The final bill is based on the number and type of plates of the consumed sushi. Some restaurants use a variation of the concept, such as miniature wooden "sushi boats" that travel through small canals or miniature locomotive cars that travel on a track.
+
 -
+
 ### 🚇 Tunnel Time - (++++0)
 
 
