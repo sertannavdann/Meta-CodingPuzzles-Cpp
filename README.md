@@ -1,9 +1,10 @@
-<div style = "Center">
-
     ## Meta Coding Puzzles
     This repository contains a set of coding puzzles of varying difficulty levels to challenge your coding skills. 
     Each puzzle has a hardness level, denoted by a string of plus signs followed by zeros, such as "(++000)" or "(++++0)". 
     The more plus signs, the harder the puzzle.
+    
+<div style = "Center">
+
 ______
     ### Cafeteria - (++000)
     A simple puzzle to get you started, involving calculating the total available seating at a cafeteria.
@@ -23,8 +24,7 @@ ______
     This is the most challenging puzzle in the set, involving finding the shortest path through a network of tunnels with different 
     travel times.
 
+</div>
     ### Usage
     To use these puzzles, simply clone the repository and start working on the puzzles in your preferred programming language. Each
     puzzle has its own directory with a README file containing the problem description and input/output examples.
-
-</div>
