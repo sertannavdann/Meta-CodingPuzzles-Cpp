@@ -3,7 +3,7 @@
 </div>
   </br>
 
-<p align="center">💻 Solve the puzzles in your favorite programming language and improve your coding skills 🚀</p>
+<p align="center">💻 🚀🚀 Solve the puzzles in your favorite programming language and improve your coding skills 🚀🚀 </p>
 
 ---
 
